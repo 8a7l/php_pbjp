@@ -1,4 +1,3 @@
-
 <?php
 $head_page_js_script = "
 function b64_to_utf8(str) {
